@@ -6,13 +6,13 @@ layout: default
 
 
 
-# [BEHSS - 2025](./another-page.html)
+# [BEHSS](./another-page.html) <img src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" alt="In Progress" width="40" style="vertical-align: middle; margin-left: 6px;">
 
-BEHSS Black Elephant Home Security System
+<!-- BEHSS Black Elephant Home Security System - 2025 -->
 
-# [NAS - 2024](./another-page.html)
+# [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
 
-NAS Network Attached Storage
+Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation.
 
 
 <!-- [Link to another page](./another-page.html).

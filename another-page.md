@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Hello, you are too early
 
-_yay_
 
 [back](./)
