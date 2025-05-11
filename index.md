@@ -8,6 +8,7 @@ layout: default
 
 # [BEHSS](./another-page.html) <img src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" alt="In Progress" width="40" style="vertical-align: middle; margin-left: 6px;">
 
+# [Saboloti](./another-page.html) <img src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" alt="In Progress" width="40" style="vertical-align: middle; margin-left: 6px;">
 <!-- BEHSS Black Elephant Home Security System - 2025 -->
 
 # [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
