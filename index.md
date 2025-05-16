@@ -4,16 +4,46 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
+## Projects
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3>
+    <a href="./nas-page.html">NAS - Mar 2024</a>
+    <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
+  </h3>
+  <p style="padding-bottom: 10 px"> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
+</div>
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3><a href="./BEHSS.html">BEHSS</a></h3>
+  <p style="padding-bottom: 10 px"> Home Security </p>
+</div>
 
 
-# [BEHSS](./another-page.html) <img src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" alt="In Progress" width="40" style="vertical-align: middle; margin-left: 6px;">
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3><a href="./another-page.html">Saboloti</a></h3>
+  <p style="padding-bottom: 10 px"> Mobile app built with React Native </p>
+</div>
 
-# [Saboloti](./another-page.html) <img src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" alt="In Progress" width="40" style="vertical-align: middle; margin-left: 6px;">
-<!-- BEHSS Black Elephant Home Security System - 2025 -->
 
-# [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
+<div style="margin-top: 20px;"></div>
 
-Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation.
+
+<!-- ## Profile
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3>
+    <a>What am I doing?</a>
+  </h3>
+  <img src="/assets/img/UBC-Rockets.png" alt="UBC Rockets" width="100%" style="vertical-align: middle; margin-left: 6px;">
+  </div> -->
+
+
+
+
+
+<!-- ### [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
+
+Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. -->
 
 
 <!-- [Link to another page](./another-page.html).
