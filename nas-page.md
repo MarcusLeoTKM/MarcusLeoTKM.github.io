@@ -26,9 +26,9 @@ This NAS is built with a **Raspberry Pi 4B** and a **2TB Toshiba hard drive**. T
  - Shell & Language: Zsh, Python
  - Protocols & Tools: SMB, SSH, SMTP, VPN
 
-I chose **Pi OS Lite** for the NAS because the package I used called **OpenMediaVault** doesn't integrate well with desktop environments like Pi OS Full. The next step was navigating the system. Without a desktop interface, I had to do everything through the command line using Zsh. It took some time to get used to, but the good news is I always had my laptop ready for experimentation. Overall, programming the system turned out to be relatively easy.
+I chose **Pi OS Lite** for the NAS because the package I used called **OpenMediaVault** doesn't integrate well with desktop environments like Pi OS Full. The next step was navigating the system. Without a desktop interface, I had to do everything through the command line using Zsh. It took some time to get used to, but after that it was pretty fun.
 
-Accessing the files from outside the house wasn't a priority at the time, so I didn't configure port forwarding. Instead, I assigned a static LAN IP to the board.
+I didn't configure port forwarding because I was told it was unsafe plus I didn't think I was going to access the files from outside the house. Instead, I assigned a static LAN IP to the board.
 
 NAS was soon up and running. Then I remote accessed the board and installed OpenMediaVault to monitor storage, network traffic and system logs. My drive used a HFS+ file system which caused compatibility issues, so I reformatted it to EXT4. I also ended up skipping RAID configuration for simplicity. 
 
