@@ -14,10 +14,10 @@ layout: default
   <p style="padding-bottom: 10 px"> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
 </div>
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+<!-- <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
   <h3><a href="./BEHSS.html">BEHSS</a></h3>
   <p style="padding-bottom: 10 px"> Home Security </p>
-</div>
+</div> -->
 
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
@@ -27,6 +27,18 @@ layout: default
 
 
 <div style="margin-top: 20px;"></div>
+
+## Experience
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3 style="padding-top: 10px"><a href="./UBCRocket.html">UBC Rocket - May 2025</a></h3>
+  <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
+</div>
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3 style="padding-top: 10px"><a href="./another-page.html">University of Toronto Aerospace Team - Sep 2024</a></h3>
+  <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
+</div>
 
 
 <!-- ## Profile
