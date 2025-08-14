@@ -9,7 +9,6 @@ layout: default
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
   <h3>
     <a href="./nas-page.html">NAS - Mar 2024</a>
-    <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
   </h3>
   <p style="padding-bottom: 10 px"> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
 </div>
@@ -26,7 +25,7 @@ layout: default
 </div> -->
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
   <h3><a href="./sam-m10q.html">SAM M10Q GNSS Module - Jul 2025</a></h3>
-  <p style="padding-bottom: 10 px"> Fetching location data </p>
+  <p style="padding-bottom: 10 px"> Module that fetches location data </p>
 </div>
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
