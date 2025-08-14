@@ -25,7 +25,7 @@ The return messages are written in NMEA format, which starts with different sent
  
 The default settings allow the module to work right out of the box. However, we needed a faster update and output rate, which required modifying the stored configuration items (similar to registers). They are in the GitHub project.
 
- <a href="https://github.com/MarcusLeoTKM">
+ <a href="https://github.com/MarcusLeoTKM/SAM-M10Q">
 SAM GitHub project
     <img src="assets/img/link.png" alt="link" style="width: 10px;">
 
