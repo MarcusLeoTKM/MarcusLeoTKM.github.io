@@ -20,26 +20,45 @@ layout: default
 </div> -->
 
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+<!-- <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
   <h3><a href="./another-page.html">Saboloti</a></h3>
   <p style="padding-bottom: 10 px"> Mobile app built with React Native </p>
+</div> -->
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3><a href="./sam-m10q.html">SAM M10Q GNSS Module - Jul 2025</a></h3>
+  <p style="padding-bottom: 10 px"> Fetching location data </p>
 </div>
 
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3><a href="./another-page.html">DWM3000 Transceiver - Jul 2025 </a></h3>
+  <p style="padding-bottom: 10 px"> Channel 9 radio transceiving </p>
+</div>
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
+  <h3><a href="./another-page.html">Business Card - May 2025</a></h3>
+  <p style="padding-bottom: 10 px"> My own business card</p>
+</div>
 
 <div style="margin-top: 20px;"></div>
 
 ## Experience
-
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3 style="padding-top: 10px"><a href="./UBCRocket.html">UBC Rocket - May 2025</a></h3>
+<div style="display: flex;">
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; margin-right: 10px;">
+  <a href="./UBCRocket.html">
+    <img src="assets/img/UBC/UBCRocketsLogo.png" alt="UBC Rocket" style="width: 100%;">
+    <h3>UBC Rocket - May 2025</h3>
+  </a>
   <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
 </div>
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3 style="padding-top: 10px"><a href="./another-page.html">University of Toronto Aerospace Team - Sep 2024</a></h3>
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%;">
+  <a href="./another-page.html">
+    <img src="assets/img/UTAT_logo.png" alt="UTAT" style="width: 100%;">
+    <h3>UTAT - Sep 2024</h3>
+  </a>
   <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
 </div>
-
+</div>
 
 <!-- ## Profile
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
