@@ -38,7 +38,7 @@ SAM-M10Q GNSS module
 For optimal RF performance, the manual suggests using a 5 by 5 cm layout with stitching vias.
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; max-width: 100%; aspect">
-  <img src="/assets/img/UBC/GPS-V2.png" alt="NAS view 1" style="height: 280px; border-radius: 10px;">
+  <img src="/assets/img/UBC/GPS-V2.png" alt="SAM PCB" style="height: 280px; border-radius: 10px;">
   <!-- Add more images here -->
 </div>
 
