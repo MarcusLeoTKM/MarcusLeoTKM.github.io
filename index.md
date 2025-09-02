@@ -4,43 +4,52 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-## Projects
-
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3>
-    <a href="./nas-page.html">NAS - Mar 2024</a>
-  </h3>
-  <p style="padding-bottom: 10 px"> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
-</div>
-
-<!-- <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3><a href="./BEHSS.html">BEHSS</a></h3>
-  <p style="padding-bottom: 10 px"> Home Security </p>
-</div> -->
+# Projects
+<div style = "margin-top: 20px"></div>
 
 
-<!-- <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3><a href="./another-page.html">Saboloti</a></h3>
-  <p style="padding-bottom: 10 px"> Mobile app built with React Native </p>
-</div> -->
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3><a href="./sam-m10q.html">SAM M10Q GNSS Module - Jul 2025</a></h3>
-  <p style="padding-bottom: 10 px"> Module that fetches location data </p>
-</div>
+  <div>
+  <a href="./nas-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <h3>NAS</h3>
+  <p> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
+  </a>
+  </div>
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3><a href="./another-page.html">DWM3000 Transceiver - Jul 2025 </a></h3>
-  <p style="padding-bottom: 10 px"> Channel 9 radio transceiving </p>
-</div>
+  <!-- <h3><a href="./BEHSS.html">BEHSS</a></h3> -->
+  <!-- <h3><a href="./another-page.html">Saboloti</a></h3> -->
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3><a href="./another-page.html">Business Card - May 2025</a></h3>
-  <p style="padding-bottom: 10 px"> My own business card</p>
-</div>
+
+  <div>
+  <a href="./sam-m10q.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+    <h3>SAM M10Q GNSS Module</h3>
+    <p> UBC project </p>
+  </a>
+  </div>
+
+
+  <div>
+  <a href="./another-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <h3>DWM3000 Transceiver</h3>
+  <p> Channel 9 radio transceiving </p>
+  </a>
+  </div>
+
+  <div>
+  <a href="./business.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <h3>Business Card V2</h3>
+  <p> My own business card </p>
+  </a>
+  </div>
+
+
+
 
 <div style="margin-top: 20px;"></div>
 
-## Experience
+
+
+
+# Clubs
 <div style="display: flex;">
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; margin-right: 10px;">
   <a href="./UBCRocket.html">
@@ -66,8 +75,15 @@ layout: default
   </h3>
   <img src="/assets/img/UBC-Rockets.png" alt="UBC Rockets" width="100%" style="vertical-align: middle; margin-left: 6px;">
   </div> -->
-
-
+<div style="margin-top: 20px;"></div>
+# Apprenticeship
+<div style = "margin-top: 20px"></div>
+  <div>
+  <a href="./another-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <h3> West Coast at Cost </h3>
+  <p> Technician Assistant </p>
+  </a>
+  </div>
 
 
 

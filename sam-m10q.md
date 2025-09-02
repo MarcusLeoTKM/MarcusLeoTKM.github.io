@@ -34,5 +34,5 @@ The default settings allow the module to work right out of the box. However, we 
 SAM GitHub project
     <img src="assets/img/link.png" alt="link" style="width: 10px;">
 
-
+<div style="margin-top:10px"></div>
 [Back](./)
