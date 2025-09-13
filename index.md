@@ -79,7 +79,7 @@ layout: default
 # Apprenticeship
 <div style = "margin-top: 20px"></div>
   <div>
-  <a href="./another-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <a href="./shipyard.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
   <h3> West Coast at Cost </h3>
   <p> Technician Assistant </p>
   </a>
