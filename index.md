@@ -60,7 +60,7 @@ layout: default
 </div>
 
 <div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%;">
-  <a href="./another-page.html">
+  <a href="./UTAT.html">
     <img src="assets/img/UTAT_logo.png" alt="UTAT" style="width: 100%;">
     <h3>UTAT - Sep 2024</h3>
   </a>
