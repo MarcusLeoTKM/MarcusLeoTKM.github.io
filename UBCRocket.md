@@ -10,9 +10,9 @@ May 2025 - Aug 2025
     <img src="assets/img/UBC/UBCRocketsLogo.png" alt="UBC Rocket" style="width: 30px;">
 </div>
 
-I had four awesome months at UBC Rocket, participated in two projects and a test launch in Oregon. I did a lot of soldering work and had some very valuable hands-on time with PCBs. 
+I had four awesome months at UBC Rocket, where I participated in two projects and a test launch in Oregon. I was responsible for soldering components at first and gradually took on some harder tasks such as PCB design, and firmware programming. 
 
-Later on, I started using Altium to make my own boards, including the <a href="./sam-m10q.html">SAM M10Q GNSS Module</a>. In the end, I programmed and tested it using a nucleo board, the STM32 L4R5ZIT6 via UART. It’s ready to be flown in this year’s rocket at Launch Canada.
+Over the following weeks, I started using Altium to create my own boards, including one made for UBC <a href="./sam-m10q.html">SAM M10Q GNSS Module</a>. I programmed and tested it using a STM32 Nucleo board via UART and it was successfully flown with the rocket at the 2025 Launch Canada competition.
 <div style="margin-bottom: 30px;"></div>
 
 ### Soldering
