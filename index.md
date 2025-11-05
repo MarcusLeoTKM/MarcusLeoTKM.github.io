@@ -6,40 +6,87 @@ layout: default
 
 # Projects
 <div style = "margin-top: 20px"></div>
-
-
   <div>
-  <a href="./nas-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
-  <h3>NAS</h3>
-  <p> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
+  <a href="./steno.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
+  <h3>Stenokeyboard</h3>
+  <p> Stenokeyboards often offer faster typing speed</p>
   </a>
   </div>
+
+
 
   <!-- <h3><a href="./BEHSS.html">BEHSS</a></h3> -->
   <!-- <h3><a href="./another-page.html">Saboloti</a></h3> -->
 
 
   <div>
-  <a href="./sam-m10q.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <a href="./sam-m10q.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
     <h3>SAM M10Q GNSS Module</h3>
     <p> UBC project </p>
   </a>
   </div>
 
-
-  <div>
-  <a href="./another-page.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
-  <h3>DWM3000 Transceiver</h3>
-  <p> Channel 9 radio transceiving </p>
-  </a>
-  </div>
-
-  <div>
-  <a href="./business.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+   <div>
+  <a href="./business.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
   <h3>Business Card V2</h3>
   <p> My own business card </p>
   </a>
   </div>
+
+  <div>
+  <a href="./nas-page.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
+  <h3>NAS</h3>
+  <p> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
+  </a>
+  </div>
+
+  <div>
+  <a href="./another-page.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
+  <h3>DWM3000 Transceiver</h3>
+  <p> </p>
+  </a>
+  </div>
+
 
 
 
@@ -79,7 +126,15 @@ layout: default
 # Apprenticeship
 <div style = "margin-top: 20px"></div>
   <div>
-  <a href="./shipyard.html" style="display: block; background-color: #f0f0f0; padding: 10px; border-radius: 8px; color: inherit; margin-top: 10px; width: 100%;">
+  <a href="./shipyard.html" style="display: block; 
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    padding: 10px; 
+    border-radius: 8px; 
+    color: inherit; 
+    margin-top: 10px; 
+    width: 100%;
+    text-decoration: none; 
+  ">
   <h3> West Coast at Cost </h3>
   <p> Technician Assistant </p>
   </a>
