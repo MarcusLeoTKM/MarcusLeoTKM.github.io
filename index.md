@@ -4,143 +4,35 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-# Projects
-<div style = "margin-top: 20px"></div>
-  <div>
-  <a href="./steno.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3>Stenokeyboard</h3>
-  <p> Stenokeyboards often offer faster typing speed</p>
-  </a>
+<div id="codeOverlay" class="overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); z-index: 9999; display: flex; justify-content: center; align-items: center;">
+  <div class="overlay-content" style="background-color: rgba(255, 255, 255, 0.9); padding: 40px; border-radius: 10px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h1>View Code</h1>
+    <input type="text" id="codeInput" placeholder="Enter access code" />
+    <button onclick="checkCode()">enter</button>
+    <p id="errorMsg" style="color: red; display: none;">Incorrect code</p>
   </div>
-
-
-
-  <!-- <h3><a href="./BEHSS.html">BEHSS</a></h3> -->
-  <!-- <h3><a href="./another-page.html">Saboloti</a></h3> -->
-
-
-  <div>
-  <a href="./sam-m10q.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-    <h3>SAM M10Q GNSS Module</h3>
-    <p> UBC project </p>
-  </a>
-  </div>
-
-   <div>
-  <a href="./business.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3>Business Card V2</h3>
-  <p> My own business card </p>
-  </a>
-  </div>
-
-  <div>
-  <a href="./nas-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3>NAS</h3>
-  <p> Software that supports file sharing often comes with latency issues and tedious authentication and complicated navigation. </p>
-  </a>
-  </div>
-
-  <div>
-  <a href="./another-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3>DWM3000 Transceiver</h3>
-  <p> </p>
-  </a>
-  </div>
-
-
-
-
-
-<div style="margin-top: 20px;"></div>
-
-
-
-
-# Clubs
-<div style="display: flex;">
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; margin-right: 10px;">
-  <a href="./UBCRocket.html">
-    <img src="assets/img/UBC/UBCRocketsLogo.png" alt="UBC Rocket" style="width: 100%;">
-    <h3>UBC Rocket - May 2025</h3>
-  </a>
-  <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
 </div>
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%;">
-  <a href="./UTAT.html">
-    <img src="assets/img/UTAT_logo.png" alt="UTAT" style="width: 100%;">
-    <h3>UTAT - Sep 2024</h3>
-  </a>
-  <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
-</div>
-</div>
 
-<!-- ## Profile
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 100%;">
-  <h3>
-    <a>What am I doing?</a>
-  </h3>
-  <img src="/assets/img/UBC-Rockets.png" alt="UBC Rockets" width="100%" style="vertical-align: middle; margin-left: 6px;">
-  </div> -->
-<div style="margin-top: 20px;"></div>
-# Apprenticeship
-<div style = "margin-top: 20px"></div>
-  <div>
-  <a href="./shipyard.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3> West Coast at Cost </h3>
-  <p> Technician Assistant </p>
-  </a>
-  </div>
+<script>
+// Define your secret code
+const SECRET_CODE = "3408";
 
-
+function checkCode() {
+  const input = document.getElementById('codeInput').value;
+  const errorMsg = document.getElementById('errorMsg');
+  const overlay = document.getElementById('codeOverlay');
+  const mainContent = document.getElementById('mainContent');
+  
+  if (input === SECRET_CODE) {
+    // Correct code - show content, hide overlay
+    window.location.href = './AESN.html';
+  } else {
+    // Incorrect code - show error
+    errorMsg.style.display = 'block';
+  }
+}
+</script>
 
 <!-- ### [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
 

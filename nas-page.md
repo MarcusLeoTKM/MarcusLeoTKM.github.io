@@ -33,4 +33,4 @@ NAS was soon up and running. Then I remote accessed the board and installed Open
 
 Once you install OMV, it overrides a lot of the default functionalities of the Pi, and it took me some time to realize this and re-enable access from inside OMV. With the drive finally mounted to OMV and email alerts enabled using SMTP, the NAS was complete. Later on, I added VPN so I could securely access files from outside the house.
 <div style="margin-top:10px"></div>
-[Back](./)
+[Back](./AESN.html)
