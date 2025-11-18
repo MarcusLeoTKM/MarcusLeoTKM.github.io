@@ -76,6 +76,6 @@ Sep 2024 -
 </div>
 The current drone experiences severe signal loss when navigating over mountains. Therefore, I designed a PCB for relaying drone control signals that will be mounted on top of a guyed tower being built by our mechanical team. 
 
-I incorporated high speed signal design principles including a complete ground planes below high-frequency traces, appropriate via placement for proper return paths, rounded corners for signal integrity, and impedance control with length matching for USB (though USB 2.0 doesn't really need this).
+I incorporated high speed signal design principles including a complete ground plane below high-frequency traces, appropriate via placement for proper return paths, rounded corners for signal integrity, and impedance control with length matching for USB (though USB 2.0 doesn't really need this).
 
 [Back](./AESN.html)
