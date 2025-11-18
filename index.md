@@ -13,25 +13,40 @@ layout: default
   </div>
 </div>
 
-
 <script>
-// Define your secret code
-const SECRET_CODE = "3408";
+const HASHED_SECRET_CODE = "972356a4c7c6ec11c81f19edf6f2969f054bbd35f72c51de6e364475e8870885"; 
 
-function checkCode() {
+async function checkCode() {
   const input = document.getElementById('codeInput').value;
   const errorMsg = document.getElementById('errorMsg');
-  const overlay = document.getElementById('codeOverlay');
-  const mainContent = document.getElementById('mainContent');
   
-  if (input === SECRET_CODE) {
-    // Correct code - show content, hide overlay
+  // Hash the input and compare with stored hash
+  const inputHash = await hashPassword(input);
+  
+  if (inputHash === HASHED_SECRET_CODE) {
+    // Correct code - redirect to main page
     window.location.href = './AESN.html';
   } else {
     // Incorrect code - show error
     errorMsg.style.display = 'block';
   }
 }
+
+// Hash function (SHA-256)
+async function hashPassword(password) {
+  const encoder = new TextEncoder();
+  const data = encoder.encode(password);
+  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  return hashHex;
+}
+
+document.getElementById('codeInput').addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') {
+    checkCode();
+  }
+});
 </script>
 
 <!-- ### [NAS - Mar 2024](./nas-page.html) <img src="/assets/img/internet.png" alt="NAS logo" width="20" style="vertical-align: middle; margin-left: 6px;">
