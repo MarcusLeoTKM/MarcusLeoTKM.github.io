@@ -7,7 +7,7 @@ Sep 2024 -
 
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; max-width: 240px; margin-bottom: 24px;">
-    <img src="assets/img/UTAT_logo.png" alt="UTAT" style="width: 30px;">
+    <img src="assets/img/UTAT/UTAT_logo.png" alt="UTAT" style="width: 30px;">
 </div>
 
 <!-- Comment out entire sections:
@@ -71,7 +71,7 @@ Sep 2024 -
 ### PCB Design
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; max-width: 100%; aspect">
-  <img src="/assets/img/RelayPCB.png" alt="Relay PCB" style="height: 280px; border-radius: 10px;">
+  <img src="/assets/img/UTAT/RelayPCB.png" alt="Relay PCB" style="height: 280px; border-radius: 10px;">
   <!-- Add more images here -->
 </div>
 The current drone experiences severe signal loss when navigating over mountains. Therefore, I designed a PCB for relaying drone control signals that will be mounted on top of a guyed tower being built by our mechanical team. 
