@@ -10,6 +10,10 @@ Sep 2024 -
     <img src="assets/img/UTAT/UTAT_logo.png" alt="UTAT" style="width: 30px;">
 </div>
 
+This is my second year at UTAT. This year, I'm ready to take on some more advanced tasks, primarily in control systems, calibration and custom PCB design. So far, I've already built a PCB for a relay station to ensure robust signal communication between the ground station and drone.
+
+<div style="margin-bottom: 30px;"></div>
+
 <!-- Comment out entire sections:
 <script>
     function toggleContent(buttonElement) {
