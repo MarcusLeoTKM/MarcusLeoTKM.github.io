@@ -7,7 +7,7 @@ layout: default
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./steno.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(247, 223, 105) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(247, 223, 105) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -28,7 +28,7 @@ layout: default
 
   <div>
   <a href="./sam-m10q.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -43,7 +43,7 @@ layout: default
 
    <div>
   <a href="./business.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -58,7 +58,7 @@ layout: default
 
   <div>
   <a href="./nas-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -107,11 +107,11 @@ layout: default
   <img src="/assets/img/UBC-Rockets.png" alt="UBC Rockets" width="100%" style="vertical-align: middle; margin-left: 6px;">
   </div> -->
 <div style="margin-top: 20px;"></div>
-<h1> Apprenticeship </h1>
+<h1> Intern </h1>
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./shipyard.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
