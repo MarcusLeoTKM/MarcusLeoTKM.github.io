@@ -100,15 +100,21 @@ Jul 2025 - Aug 2025
     <img src="/assets/img/UBC/GPS-V2.png" alt="SAM PCB" style="height: 280px; border-radius: 10px;">
 </div>
 
-This was a very straightforward project, the rocket collects location and time data from GNSS satellites (GPS, Beidou, etc.) and sends it back via the onboard radio. My part was to design the PCB that hosts the SAM-M10Q GNSS module and later program it to fetch the location and time data. The module starts transmission as soon as it's powered and connected via UART.
+<!-- This was a very straightforward project, the rocket collects location and time data from GNSS satellites (GPS, Beidou, etc.) and sends it back via the onboard radio. My part was to design the PCB that hosts the SAM-M10Q GNSS module and later program it to fetch the location and time data. The module starts transmission as soon as it's powered and connected via UART.
 
-The return messages are written in NMEA format, which starts with different sentence types, such as GNGLL (shows latitude and longtitude), GNRMC (shows location and time), GNGSA (shows available satellites). I had to locate the lines starting with GNRMC and reformat them so they could be used by the FC.
+The return messages are written in NMEA format, which starts with different sentence types, such as GNGLL (shows latitude and longtitude), GNRMC (shows location and time), GNGSA (shows available satellites). I had to locate the lines starting with GNRMC and reformat them so they could be used by the FC. -->
+
+I designed and soldered a custom PCB for a SAM-M10Q GNSS module and developed the embedded firmware to acquire satellite signals, parse positioning data, and make it available to the onboard avionics controller.
+<div style="margin-bottom: 20px"></div>
 
 <img src="/assets/img/UBC/SAM-output.jpg" alt="Branching" width="500" style="border-radius: 10px; vertical-align: middle;">
+<div style="margin-bottom: 20px"></div>
 
-015201.00 was the time when I was testing it. 4916.00492 N and 12315.14884 W represent the geolocation in DMM (Degrees and Decimal Minutes) format. 140825 is the date (August 14, 2025). 
+The output from the GNSS module is shown above.
+<!-- 015201.00 was the time when I was testing it. 4916.00492 N and 12315.14884 W represent the geolocation in DMM (Degrees and Decimal Minutes) format. 140825 is the date (August 14, 2025).  -->
  
-The default settings allow the module to work right out of the box. However, we needed a faster update and output rate, which required modifying the stored configuration items (similar to registers). The way to configure them is included in here
+During development, we realized that we needed a faster update and output rate, which required modifying the module's internal configuration items. The procedure for configuring them is included: 
+
  <a href="https://github.com/MarcusLeoTKM/SAM-M10Q">
 SAM GitHub project
     <img src="assets/img/link.png" alt="link" style="width: 10px;">
