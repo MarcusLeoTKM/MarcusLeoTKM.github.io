@@ -38,9 +38,10 @@ SAM-M10Q GNSS module
 This design follows the guidelines suggested in the manual, including the use of stitching vias and size of 5cm by 5cm.
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; max-width: 100%; aspect">
-  <video src="/assets/img/UBC/GPS-V2.png" alt="SAM PCB" style="height: 280px; border-radius: 10px;">
+  <img src="/assets/img/UBC/GPS-V2.png" alt="SAM PCB" style="height: 280px; border-radius: 10px;">
   <!-- Add more images here -->
 </div>
+
 
 <div style="margin-top: 40px"></div>
 

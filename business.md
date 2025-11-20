@@ -17,7 +17,12 @@ Jun 2025 - Jul 2025
 
 This was my very first PCB design. The board shown above is the second version. Compared to the first version, I changed the improper PCB layout, moved and added components to address the issues I got from the first testing results. I also added pads around the perimeter, which not only makes it more aesthetically pleasing but also allows me to use it as a programmable dev board.
 <div style="margin-bottom:20px"></div>
-<img src="/assets/img/BusinessCard/Flashed.mov" alt="SAM PCB" style="height: 280px; border-radius: 10px; margin-top:10px">
+<!-- <img src="/assets/img/BusinessCard/Flashed.mov" alt="SAM PCB" style="height: 280px; border-radius: 10px; margin-top:10px"> -->
+
+<video style="height: 280px; border-radius: 10px;" autoplay loop muted playsinline>
+    <source src="/assets/img/BusinessCard/Flashed.mov" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 <div style="margin-bottom:20px"></div>
 
 I was extremely thrilled to see the board successfully flashed and working.
