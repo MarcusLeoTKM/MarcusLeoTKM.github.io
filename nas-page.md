@@ -32,5 +32,5 @@ I didn't configure port forwarding because I was told it was unsafe plus I didn'
 NAS was soon up and running. Then I remote accessed the board and installed OpenMediaVault to monitor storage, network traffic and system logs. My drive used a HFS+ file system which caused compatibility issues, so I reformatted it to EXT4. I also ended up skipping RAID configuration for simplicity. 
 
 Once you install OMV, it overrides a lot of the default functionalities of the Pi, and it took me some time to realize this and re-enable access from inside OMV. With the drive finally mounted to OMV and email alerts enabled using SMTP, the NAS was complete. Later on, I added VPN so I could securely access files from outside the house.
-<div style="margin-top:10px"></div>
+<div style="margin-top:20px"></div>
 [Back](./AESN.html)

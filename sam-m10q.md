@@ -119,5 +119,5 @@ During development, we realized that we needed a faster update and output rate, 
 SAM GitHub project
     <img src="assets/img/link.png" alt="link" style="width: 10px;">
 
-<div style="margin-top:10px"></div>
+<div style="margin-top:20px"></div>
 [Back](./AESN.html)

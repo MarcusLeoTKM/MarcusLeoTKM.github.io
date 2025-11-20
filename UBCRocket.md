@@ -35,7 +35,7 @@ SAM-M10Q GNSS module
 
 
 
-For optimal RF performance, the manual suggests using a 5 by 5 cm layout with stitching vias.
+This design follows the guidelines suggested in the manual, including the use of stitching vias and size of 5cm by 5cm.
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; max-width: 100%; aspect">
   <img src="/assets/img/UBC/GPS-V2.png" alt="SAM PCB" style="height: 280px; border-radius: 10px;">

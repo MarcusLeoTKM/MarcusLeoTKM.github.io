@@ -98,4 +98,6 @@ Sep 2025 - Nov 2025
     <img src="/assets/img/Steno/soldering.png" alt="Steno PCB" style="height: 400px; border-radius: 10px;">
 </div>
 
+Working on it!
+
 [Back](./AESN.html)

@@ -7,7 +7,7 @@ layout: default
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./steno.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(247, 223, 105) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -28,7 +28,7 @@ layout: default
 
   <div>
   <a href="./sam-m10q.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -43,7 +43,7 @@ layout: default
 
    <div>
   <a href="./business.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -58,7 +58,7 @@ layout: default
 
   <div>
   <a href="./nas-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -71,20 +71,6 @@ layout: default
   </a>
   </div>
 
-  <div>
-  <a href="./another-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
-    padding: 10px; 
-    border-radius: 8px; 
-    color: inherit; 
-    margin-top: 10px; 
-    width: 100%;
-    text-decoration: none; 
-  ">
-  <h3>DWM3000 Transceiver</h3>
-  <p> </p>
-  </a>
-  </div>
 
 
 
@@ -125,7 +111,7 @@ layout: default
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./shipyard.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, #C2E2FA 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 70%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
