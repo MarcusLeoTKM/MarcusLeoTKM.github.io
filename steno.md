@@ -75,12 +75,16 @@ Sep 2025 - Nov 2025
             background-color: #f0f0f0;
             border-radius: 8px; 
             color: inherit; 
-            width: 150px; 
+            width: 170px; 
             cursor: pointer; 
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+            align-items: center;
         ">
         <div class="button-text" style="
-          padding: 10px; 
+          padding-top: 10px;
+          padding-bottom: 10px;
+          padding-left: 10px; 
+          padding-right: 5px;
           flex-grow: 1;
           text-align: center; 
           font-weight: bold;

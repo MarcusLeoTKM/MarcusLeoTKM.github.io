@@ -25,7 +25,7 @@ async function checkCode() {
   
   if (inputHash === HASHED_SECRET_CODE) {
     // Correct code - redirect to main page
-    window.location.href = './AESN.html';
+    window.location.href = './afjsinme.html';
   } else {
     // Incorrect code - show error
     errorMsg.style.display = 'block';

@@ -82,6 +82,7 @@ The current drone experiences severe signal loss when navigating over mountains.
 
 I incorporated high speed signal design principles including a complete ground plane below high-frequency traces, appropriate via placement for proper return paths, rounded corners for signal integrity, and impedance control with length matching for USB (though USB 2.0 doesn't really need this).
 
+
 <div style="margin-bottom:20px"></div>
 
 [Back](./AESN.html)

@@ -7,7 +7,7 @@ layout: default
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./steno.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(247, 223, 105) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 100%,rgb(247, 223, 105) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -28,7 +28,7 @@ layout: default
 
   <div>
   <a href="./sam-m10q.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 100%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -43,7 +43,7 @@ layout: default
 
    <div>
   <a href="./business.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%, rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 100%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -58,7 +58,7 @@ layout: default
 
   <div>
   <a href="./nas-page.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%,rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 100%,rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 
@@ -82,7 +82,7 @@ layout: default
 
 <h1> Clubs </h1>
 <div style="display: flex;">
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; margin-right: 10px;">
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; margin-right: 10px;  background-color: white;">
   <a href="./UBCRocket.html">
     <img src="assets/img/UBC/UBCRocketsLogo.png" alt="UBC Rocket" style="width: 100%;">
     <h3>UBC Rocket - May 2025</h3>
@@ -90,7 +90,7 @@ layout: default
   <!-- <p style="padding-bottom: 10 px"> Mobile app built with React Native </p> -->
 </div>
 
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%;">
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 8px; display: inline-block; margin-top: 10px; width: 50%; background-color: white">
   <a href="./UTAT.html">
     <img src="assets/img/UTAT/UTAT_logo.png" alt="UTAT" style="width: 100%;">
     <h3>UTAT - Sep 2024</h3>
@@ -111,7 +111,7 @@ layout: default
 <div style = "margin-top: 20px"></div>
   <div>
   <a href="./shipyard.html" style="display: block; 
-    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 90%, rgb(145, 234, 144) 100%);
+    background-image: linear-gradient(to right, #f0f0f0 0%, #f0f0f0 100%, rgb(145, 234, 144) 100%);
     padding: 10px; 
     border-radius: 8px; 
     color: inherit; 

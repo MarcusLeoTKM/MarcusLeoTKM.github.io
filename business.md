@@ -20,7 +20,7 @@ This was my very first PCB design. The board shown above is the second version. 
 <!-- <img src="/assets/img/BusinessCard/Flashed.mov" alt="SAM PCB" style="height: 280px; border-radius: 10px; margin-top:10px"> -->
 
 <video style="height: 280px; border-radius: 10px;" autoplay loop muted playsinline>
-    <source src="/assets/img/BusinessCard/Flashed.mov" type="video/mp4">
+    <source src="/assets/img/BusinessCard/Flashed.mov" type="video/mov">
     Your browser does not support the video tag.
 </video>
 <div style="margin-bottom:20px"></div>
